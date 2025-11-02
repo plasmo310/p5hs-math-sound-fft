@@ -4,7 +4,7 @@
 * 押下したボタンに応じて処理時間と結果が表示されます。
 <img width="320px" src="/ReadMeContents/01_sound_fft.png">
 
-## DFT実装
+## DFT実装箇所
 
 ```
 /**
@@ -54,7 +54,7 @@ function idft(fkArray, N, baseFreq = 1) {
 }
 ```
 
-## FFT実装
+## FFT実装箇所
 
 ```
 
