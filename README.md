@@ -1,4 +1,4 @@
-# p5js-complex-fourier
+# p5js-math-sound-fft
 * p5.jsを使用したDFT、FFTによるフーリエ解析実装サンプルになります。
     * メインの処理は <a href="/js/sketch.js">/js/sketch.js</a> になります。
 * 押下したボタンに応じて処理時間と結果が表示されます。
